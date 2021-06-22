@@ -1,0 +1,16 @@
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\bin\Debug\net5.0\TratamentoCsv.exe
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\bin\Debug\net5.0\TratamentoCsv.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\bin\Debug\net5.0\TratamentoCsv.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\bin\Debug\net5.0\TratamentoCsv.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\bin\Debug\net5.0\TratamentoCsv.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\bin\Debug\net5.0\ref\TratamentoCsv.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\bin\Debug\net5.0\TratamentoCsv.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\ref\TratamentoCsv.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\TratamentoCsv\TratamentoCsv\obj\Debug\net5.0\TratamentoCsv.genruntimeconfig.cache

@@ -1,0 +1,22 @@
+//teste escrito para a comunicação com a API externa sem utilização de script em outro arquivo 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <script>
+var url = "https://dicasdejavascript.com.br/exemplo.txt";//Sua URL
+
+var xhttp = new XMLHttpRequest();
+xhttp.open("GET", url, false);
+
+xhttp.send();//A execução do script pára aqui até a requisição retornar do servidor
+
+alert(xhttp.responseText);
+    </script>
+
+    <title>Teste 1</title>
+</head>
+<body>
+Texto de teste.
+
+</body>
+</html>

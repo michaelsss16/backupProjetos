@@ -1,0 +1,20 @@
+// classe autenticação desenvolvida para gerar objeto token para projeto integração netsuite
+internal class Autorizacao
+    {
+        public string consumer_key{get; set;}
+        public string realm { get; set; }
+        public string consumer_secret { get; set; }
+        public string token { get; set; }
+        public string token_secret { get; set; }
+    }
+
+//Inicialização correta do objeto token para autenticação por meio de flurl
+
+/*
+            Autorizacao uauth = new Autorizacao();
+            uauth.consumer_key = "49489920727994db68795fb7acbef83176891f9f8b5fa918d518a47b035a78e5";
+            uauth.realm = "4529249";
+            uauth.consumer_secret = "ae36187fbe7921cc971876bd6d101f00af90698c633dba0fd48230de357eb244";
+            uauth.token = "b1250e5311ce7005f366519ed3ba815ac32f73b73eb0062681f9759627c6a3d8";
+            uauth.token_secret = "ed97eacc610d0e15c5406b11b2cf02e0a03b9af4a7841c09459d39b18ee78292";
+            */
