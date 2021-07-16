@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h+Qli9nnvGlYu/hlmcWooK2u8qaS+ylJ3IoMS//fZ9BvRk7Hzi4TQs/QHo7+iYBK+6xE2b+GMhXI6+oB0dEErQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\micha\\OneDrive\\Área de Trabalho\\Projetos\\ProgramasCSharp\\yaml\\yaml\\yaml.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\micha\\.nuget\\packages\\yamldotnet\\11.2.1\\yamldotnet.11.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

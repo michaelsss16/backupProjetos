@@ -1,0 +1,16 @@
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\bin\Debug\net5.0\programaTerminal.exe
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\bin\Debug\net5.0\programaTerminal.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\bin\Debug\net5.0\programaTerminal.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\bin\Debug\net5.0\programaTerminal.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\bin\Debug\net5.0\programaTerminal.dll
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\bin\Debug\net5.0\ref\programaTerminal.dll
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\bin\Debug\net5.0\programaTerminal.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.dll
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\ref\programaTerminal.dll
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\projetos\ProgramasCSharp\programaTerminal\obj\Debug\net5.0\programaTerminal.genruntimeconfig.cache

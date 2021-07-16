@@ -1,0 +1,16 @@
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.csprojAssemblyReference.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.AssemblyInfoInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.AssemblyInfo.cs
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.csproj.CoreCompileInputs.cache
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\bin\Debug\net5.0\ListaDeExercícios.exe
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\bin\Debug\net5.0\ListaDeExercícios.deps.json
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\bin\Debug\net5.0\ListaDeExercícios.runtimeconfig.json
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\bin\Debug\net5.0\ListaDeExercícios.runtimeconfig.dev.json
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\bin\Debug\net5.0\ListaDeExercícios.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\bin\Debug\net5.0\ref\ListaDeExercícios.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\bin\Debug\net5.0\ListaDeExercícios.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ref\ListaDeExercícios.dll
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.pdb
+C:\Users\micha\OneDrive\Área de Trabalho\Projetos\ProgramasCSharp\ListaDeExercícios\ListaDeExercícios\obj\Debug\net5.0\ListaDeExercícios.genruntimeconfig.cache
